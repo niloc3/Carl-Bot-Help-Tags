@@ -2,7 +2,7 @@
 
 >How tags are any tag starting with `how`
 
-!> Contine scrolling down to see what each `how` tag does.
+!> Continue scrolling down to see an image of what each `how` tag does.
 
 
 #### List of how tags
@@ -24,8 +24,7 @@
 | ID (Retrieve and Use) | **- id** | Explains how you ping and mention things in a embed message. It also explains how to get IDs and turn on dev mode.
 | Levels (Premium) | **- level<br>- levels<br>- lvl<br>- lvllink** | Posts an embed with links to the level docs and what info you can find there. It also reiterates that levels are a premium feature.
 | Logging | **- log<br>- logging<br>- modlog** | Shows an embed explaining how to setup logs and modlogs with carl-bot.
-| Mute | **- mute<br>- muted** | Shows an embed explaining how to set up channel permissions so the mute role and lockdown works.
-| Whitelist | **- whitelist<br>- wl** | Posts an embed explaining the difference between blacklist and whitelist and what they mean in context of carl-bot commands.
+| Mute | **- mute<br>- muted** | Shows an embed explaining how to set up channel permissions so the mute role and lockdown works.<br><br>
 
 </div>
 
@@ -41,9 +40,11 @@
 | Ranks | **- rank<br>- ranks<br>- rankhelp<br>- addrank** | Posts an embed explaining what ranks are and what commands and syntax to use to authorize, deauthorize, view and use ranks.  
 | Reaction Roles | **- rr<br>- reactrole<br>- reactionrole** | Posts an embed explaining how to make a reaction role and links to a video and the docs for reaction roles.
 | Hyperlinks | **- hyperlink<br>- namedlinks** | Explains how to put a masked link into an embed.
-| User Stats | **- userstats<br>- dump<br>- inrole<br>- newusers<br>- oldest<br>- youngest** |
-| Voice Link (Premium) | **- vl<br>- voicelink** |
-| Warns | **- warn<br>- warns<br>- warninfo<br>- clearwarn<br>- removewarn** |
+| User Stats | **- userstats<br>- dump<br>- inrole<br>- newusers<br>- oldest<br>- youngest** | Displays an embed explaining how to get user stats like the oldest and youngest accounts in your server. This will also display how to use the `dump` command.
+| Voice Link (Premium) | **- vl<br>- voicelink** | This will show an embed explaining what voicelink is and what you can do with it. It also has a link to the docs for voicelink.
+| Warns | **- warn<br>- warns<br>- warninfo<br>- clearwarn<br>- removewarn** | This posts an embed explaining how to warn a member, list warns, remove, and clear warns. This embed also explains case IDs for warns.
+| Whitelist | **- whitelist<br>- wl** | Posts an embed explaining the difference between blacklist and whitelist and what they mean in context of carl-bot commands.
+
 
 </div>
 </div>
@@ -55,8 +56,8 @@
 
 ?> **Tip:** click on an image to enlarge it!
 
-<img src="https://i.postimg.cc/CL26mYPD/Screenshot-2021-03-13-at-11-09-46-PM.png" width="150" />
-<figcaption>Decisions for Suggestions</figcaption>
+|<img src="https://i.postimg.cc/CL26mYPD/Screenshot-2021-03-13-at-11-09-46-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|
+|:---:|:---:|:---:|:---:|
+|<img src="https://i.postimg.cc/CL26mYPD/Screenshot-2021-03-13-at-11-09-46-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png"/>|
 
-<img src="https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png" width="150" />
-<figcaption>Drama Channel</figcaption>
+

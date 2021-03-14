@@ -4,8 +4,16 @@
 
   - [How Tags](how-tags.md)
   - [Video Tags](video-tags.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Embed Tags](embed-tags.md)
+  - [Moderation/Automod Tags](mod-tags.md)
+  - [Mute Tags](mute-tags.md)
+  - [Lockdown Tags](lockdown-tags.md)
+  - [Role Tags](role-tags.md)
+  - [Suggestion Tags](suggestion-tags.md)
+  - [Twitch/Youtube Tags](twitch-tags.md)
+  - [Welcome Tags](welcome-tags.md)
+  - [Logging Tags](logging-tags.md)
+
 
 - Fun Tags
 

@@ -1,59 +1,30 @@
-# How Tags
+# Video Tags
 
->How tags are any tag starting with `how`
+>How tags are any tag starting with `vid`
 
 !> Continue scrolling down to see an image of what each `how` tag does.
 
+?> You can use `vids` or `vid` with no arguments to see a list of all the videos 
 
-#### List of how tags
+#### List of video tags
 
-<div align="center">
-
-<div id="one" align="center">
-
-
-|Category| Tags | Explanation |
-|--|--|--|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-
-
-</div>
-
-<div id="two" align="center">
-
-
-|Category| Tags | Explanation |
-|--|--|--|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-
-</div>
-</div>
-
-
-
-
-
+| Tags | Explanation |
+|--|--|
+| addmany |
+| add |
+| embed  |
+| emb |
+| em |
+| emb |
+| lock |
+| lockdown |
+| suggest |
+| suggestion |
+| suggestions |
+| sug |
+| verify |
+| verification |
+| ver |
 
 ?> **Tip:** click on an image to enlarge it!
 
