@@ -65,4 +65,5 @@
 
 |<img src=""/>|<img src=""/>|<img src=""/>|<img src=""/>|
 
+[![Decisions for Suggestions](https://badgen.net/badge/icon/Decisions%20for%20Suggestions?scale=2&label)](https://i.postimg.cc/CL26mYPD/Screenshot-2021-03-13-at-11-09-46-PM.png)
 
