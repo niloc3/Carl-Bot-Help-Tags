@@ -334,7 +334,7 @@ body.sticky .sidebar-toggle {
   margin-bottom: 1rem;
   width: 100%;
   margin: auto;
-  padding-bottom: 0.5rem;
+  padding: 1rem;
 }
 .markdown-section th {
   font-weight: 700;
@@ -344,7 +344,7 @@ body.sticky .sidebar-toggle {
   border: 1px solid #ddd;
   padding: 6px 13px;
   color: #fff;
-  /* min-width: 130px; */
+  min-width: 130px;
 }
 
 #one,
@@ -426,6 +426,8 @@ body.close .content {
   #one,
   #two {
     width: 95%;
+    padding: 0.05rem;
+    margin: auto;
   }
   table,
   thead,
