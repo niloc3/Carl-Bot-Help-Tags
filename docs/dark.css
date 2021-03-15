@@ -351,7 +351,7 @@ body.sticky .sidebar-toggle {
   width: 500px;
   padding: 1rem;
   vertical-align: top;
-  margin: auto;
+  margin-left: auto;
 }
 .markdown-section tr {
   border-top: 1px solid #ccc;
@@ -418,7 +418,7 @@ body.close .content {
   }
 }
 
-@media only screen and (max-width: 564px) {
+/* @media only screen and (max-width: 564px) {
   .markdown-section td,
   .markdown-section th {
     max-width: 100px;
@@ -427,12 +427,11 @@ body.close .content {
   #one,
   #two {
     padding: 0px;
-    left: 110px;
   }
   .markdown-section table {
-    margin-left: -190px;
+    transform: translateY(-50%);
   }
-}
+} */
 
 @media screen and (max-width: 858px) {
   .github-corner,
