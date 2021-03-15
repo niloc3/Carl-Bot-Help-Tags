@@ -334,7 +334,7 @@ body.sticky .sidebar-toggle {
   margin-bottom: 1rem;
   width: 100%;
   margin: auto;
-  padding-bottom: 1rem;
+  padding-bottom: 0.5rem;
 }
 .markdown-section th {
   font-weight: 700;
@@ -422,6 +422,11 @@ body.close .content {
 @media only screen and (max-width: 760px),
   (min-device-width: 768px) and (max-device-width: 1024px) {
   /* Force table to not be like tables anymore */
+
+  #one,
+  #two {
+    width: 95%;
+  }
   table,
   thead,
   tbody,
@@ -439,15 +444,15 @@ body.close .content {
   }
 
   tr {
-    border: 1px solid #ccc;
+    margin: 1rem;
   }
 
   td {
     /* Behave  like a "row" */
     border: none;
-    border-bottom: 1px solid #eee;
+
     position: relative;
-    padding-left: 50%;
+    /*padding-left: 50%;*/
   }
 
   td:before {
