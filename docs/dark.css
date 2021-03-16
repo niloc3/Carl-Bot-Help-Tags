@@ -324,8 +324,6 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section iframe {
   border: 1px solid #eee;
-  width: 1px;
-  min-width: 100%;
 }
 .markdown-section table {
   border-collapse: collapse;
@@ -419,9 +417,17 @@ body.close .content {
   }
 }
 
+.vid-list {
+  max-width: 80%;
+}
+
 @media only screen and (max-width: 760px),
-  (min-device-width: 768px) and (max-device-width: 1024px) {
+  (min-device-width: 600px) and (max-device-width: 600px) {
   /* Force table to not be like tables anymore */
+
+  .vid-list {
+    max-width: 96%;
+  }
 
   #one,
   #two {
