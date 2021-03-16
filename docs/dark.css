@@ -343,6 +343,10 @@ body.sticky .sidebar-toggle {
   min-width: 130px;
 }
 
+.markdown-section td:nth-child(2) {
+  white-space: nowrap;
+}
+
 #one,
 #two {
   display: inline-block;
@@ -422,6 +426,15 @@ body.close .content {
 @media only screen and (max-width: 760px),
   (min-device-width: 600px) and (max-device-width: 600px) {
   /* Force table to not be like tables anymore */
+
+  .markdown-section {
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  .markdown-section table {
+    padding: 0px;
+  }
 
   .vid-list {
     max-width: 96%;

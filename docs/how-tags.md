@@ -14,17 +14,17 @@
 
 |Category| Tags | Explanation |
 |--|--|--|
-| Decisions for Suggestions | **- decisions<br>- decision<br>- approve<br>- deny<br>- consider<br>- implemented** | Shows an embed with an explanation and syntax of how to approve, deny consider or implement a suggestion made with the `suggest` command.
-| Drama Channel (Premium) | **- drama<br>- dramachannel<br>- dramaemotes** | Shows an embed explaining what a drama channel is and an image explaining how to set one up.
-| Editing Embed Messages | **- editembed<br>- editem<br>- ece** | Shows an embed with the steps on how to correctly edit an advanced embed with JSON.
-| Embed Messages | **- embed<br>- em<br>- emb<br>- howtoembed** | Shows an embed explaining what each part of an embed is and how to set it. It also shows a demo embed and some rules about image links.
-| Embed Messages' Rules | **- embedrules<br>- emr<br>- embr** | Shows a list of all the rules of embeds. This is useful when someones embed is not showing up as they want it to.
-| Feeds and Autofeeds | **- feed<br>- feedhelp<br>- feedinfo** | Shows an embed explaining what feeds are and the steps to set them up and use them. It also has some info about using feeds in tags.
-| Say things with the bot | **- say<br>- saythings<br>- echo** | Shows an embed explaining how to "say" things with carl-bot. This shows how to use the `echo` command, the embed builder and more.
-| ID (Retrieve and Use) | **- id<br>- howtoid** | Explains how you ping and mention things in a embed message. It also explains how to get IDs and turn on dev mode.
-| Levels (Premium) | **- level<br>- levels<br>- lvl<br>- lvllink** | Posts an embed with links to the level docs and what info you can find there. It also reiterates that levels are a premium feature.
-| Logging | **- log<br>- logging<br>- modlog<br>- howtolog** | Shows an embed explaining how to setup logs and modlogs with carl-bot.
-| Mute | **- mute<br>- muted<br>- howtomute** | Shows an embed explaining how to set up channel permissions so the mute role and lockdown works.
+| Decisions for Suggestions | **- how decisions<br>- how decision<br>- how approve<br>- how deny<br>- how consider<br>- how implemented** | Shows an embed with an explanation and syntax of how to approve, deny consider or implement a suggestion made with the `suggest` command.
+| Drama Channel (Premium) | **- how drama<br>- how dramachannel<br>- how dramaemotes** | Shows an embed explaining what a drama channel is and an image explaining how to set one up.
+| Editing Embed Messages | **- how editembed<br>- how editem<br>- how ece** | Shows an embed with the steps on how to correctly edit an advanced embed with JSON.
+| Embed Messages | **- how embed<br>- how em<br>- how emb<br>- howtoembed** | Shows an embed explaining what each part of an embed is and how to set it. It also shows a demo embed and some rules about image links.
+| Embed Messages' Rules | **- how embedrules<br>- how emr<br>- how embr** | Shows a list of all the rules of embeds. This is useful when someones embed is not showing up as they want it to.
+| Feeds and Autofeeds | **- how feed<br>- how feedhelp<br>- how feedinfo** | Shows an embed explaining what feeds are and the steps to set them up and use them. It also has some info about using feeds in tags.
+| Say things with the bot | **- how say<br>- how saythings<br>- how echo** | Shows an embed explaining how to "say" things with carl-bot. This shows how to use the `echo` command, the embed builder and more.
+| ID (Retrieve and Use) | **- how id<br>- how howtoid<br>- how idusage** | Explains how you ping and mention things in a embed message. It also explains how to get IDs and turn on dev mode.
+| Levels (Premium) | **- how level<br>- how levels<br>- how lvl<br>- how lvllink** | Posts an embed with links to the level docs and what info you can find there. It also reiterates that levels are a premium feature.
+| Logging | **- how log<br>- how logging<br>- how modlog<br>- howtolog** | Shows an embed explaining how to setup logs and modlogs with carl-bot.
+| Mute | **- how mute<br>- how muted<br>- howtomute** | Shows an embed explaining how to set up channel permissions so the mute role and lockdown works.
 | Misc. | **- howtoreport<br>- howtosearch** | The howtoreport command shows how to use the report command in carl-bot help and the howtosearch posts an article explaining how to use the discord search function.
 
 </div>
@@ -34,19 +34,19 @@
 
 |Category| Tags | Explanation |
 |--|--|--|
-| Notes on Users | **- notes<br>- note<br>- noteinfo<br>- clearnotes<br>- removenote** | Posts an embed explaining how to create, view, remove, and clear notes from users. Also explains what note IDs are.
-| Overrides | **- override<br>- overrides** | Explains how channel overrides work and has some video explanations.
-| Polls | **- poll<br>- polls<br>- question<br>- survey<br>- howtopoll** | Shows a guide on how to send a poll, quickpoll, or strawpoll using carl-bot.
+| Notes on Users | **- how notes<br>- how note<br>- how noteinfo<br>- how clearnotes<br>- how removenote** | Posts an embed explaining how to create, view, remove, and clear notes from users. Also explains what note IDs are.
+| Overrides | **- how override<br>- how overrides** | Explains how channel overrides work and has some video explanations.
+| Polls | **- how poll<br>- how polls<br>- how question<br>- how survey<br>- howtopoll** | Shows a guide on how to send a poll, quickpoll, or strawpoll using carl-bot.
 | Prefix | **- prefix<br>- pre<br>- pref<br>- howtoprefix** | Shows an embed explaining how to change the prefix of carl-bot through the dashboard.
-| Ranks | **- rank<br>- ranks<br>- rankhelp<br>- addrank<br>- howtorank** | Posts an embed explaining what ranks are and what commands and syntax to use to authorize, deauthorize, view and use ranks.  
-| Reaction Roles | **- rr<br>- reactrole<br>- reactionrole<br>- howtorr<br>- how2rr** | Posts an embed explaining how to make a reaction role and links to a video and the docs for reaction roles.
-| Hyperlinks | **- hyperlink<br>- namedlinks** | Explains how to put a masked link into an embed.
-| User Stats | **- userstats<br>- dump<br>- inrole<br>- newusers<br>- oldest<br>- youngest** | Displays an embed explaining how to get user stats like the oldest and youngest accounts in your server. This will also display how to use the `dump` command.
-| Voice Link (Premium) | **- vl<br>- voicelink** | This will show an embed explaining what voicelink is and what you can do with it. It also has a link to the docs for voicelink.
-| Warns | **- warn<br>- warns<br>- warninfo<br>- clearwarn<br>- removewarn** | This posts an embed explaining how to warn a member, list warns, remove, and clear warns. This embed also explains case IDs for warns.
-| Whitelist | **- whitelist<br>- wl** | Posts an embed explaining the difference between blacklist and whitelist and what they mean in context of carl-bot commands.
+| Ranks | **- how rank<br>- how ranks<br>- how rankhelp<br>- how addrank<br>- howtorank** | Posts an embed explaining what ranks are and what commands and syntax to use to authorize, deauthorize, view and use ranks.  
+| Reaction Roles | **- how rr<br>- how reactrole<br>- how reactionrole<br>- howtorr<br>- how2rr** | Posts an embed explaining how to make a reaction role and links to a video and the docs for reaction roles.
+| Hyperlinks | **- how hyperlink<br>- how namedlinks** | Explains how to put a masked link into an embed.
+| User Stats | **- how userstats<br>- how dump<br>- how inrole<br>- how newusers<br>- how oldest<br>- how youngest** | Displays an embed explaining how to get user stats like the oldest and youngest accounts in your server. This will also display how to use the `dump` command.
+| Voice Link (Premium) | **- how vl<br>- how voicelink** | This will show an embed explaining what voicelink is and what you can do with it. It also has a link to the docs for voicelink.
+| Warns | **- warn<br>- how warns<br>- how warninfo<br>- how clearwarn<br>- how removewarn** | This posts an embed explaining how to warn a member, list warns, remove, and clear warns. This embed also explains case IDs for warns.
+| Whitelist | **- how whitelist<br>- how wl** | Posts an embed explaining the difference between blacklist and whitelist and what they mean in context of carl-bot commands.
 | Welcome | **- howwel<br>- howtowelcome** | Posts and embed with links to YouTube videos and the documention to learn about the carl-bot welcome system.
-| Patron | **- howtobecool<br>- how2becool** | Posts  a link to the carl-bot patreon page.
+| Patron | **- howtobecool<br>- how2becool** | Posts a link to the carl-bot patreon page where you can donate and get perks.
 
 
 </div>
