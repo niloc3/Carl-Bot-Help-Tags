@@ -31,4 +31,3 @@
 
 <iframe width="400" height="225" src="https://www.youtube.com/embed/v8CfBi6Z0xI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/U3D9GZFlaQE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
