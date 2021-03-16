@@ -322,9 +322,7 @@ body.sticky .sidebar-toggle {
   border-bottom: 1px solid #eee;
   margin: 2em 0;
 }
-.markdown-section iframe {
-  border: 1px solid #eee;
-}
+
 .markdown-section table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -761,9 +759,6 @@ body {
 .markdown-section blockquote p {
   font-weight: 600;
   margin-left: 0;
-}
-.markdown-section iframe {
-  margin: 1em 0;
 }
 .markdown-section em {
   color: #7f8c8d;
