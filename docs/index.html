@@ -8,15 +8,39 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="/dark.css" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css" />
+
+  <script>
+    function toggleTheme(value) {
+
+      // Obtain the name of stylesheet  
+      // as a parameter and set it  
+      // using href attribute. 
+      var sheets = document
+        .getElementsByTagName('link');
+
+      sheets[0].href = value;
+    }
+  </script>
+
 </head>
 
 <body>
-  <div id="app"></div>
+  <div id="app">
+
+
+
+  </div>
   <script>
     window.$docsify = {
       loadSidebar: true,
       themeColor: '#ADDF19',
+      backgroundColor: '#242c33',
       search: 'auto', // default
+
+      'flexible-alerts': {
+        style: 'callout'
+      },
 
       search: [
         '/',            // => /README.md
@@ -40,18 +64,17 @@
   <!-- Docsify v4 -->
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+
+
+
 
   <!-- Firebase -->
-  <!-- The core Firebase JS SDK is always required and must be listed first -->
-  <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
 
-  <!-- TODO: Add SDKs for Firebase products that you want to use
-     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/8.3.0/firebase-analytics.js"></script>
 
   <script>
-    // Your web app's Firebase configuration
-    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
     var firebaseConfig = {
       apiKey: "AIzaSyD3d3PF9DYMw_6sOI6vHh5xM3SjYWNBv08",
       authDomain: "carl-bot-tags.firebaseapp.com",
@@ -61,7 +84,7 @@
       appId: "1:469085126470:web:dd95adef81b154076eef47",
       measurementId: "G-QYLPZTVFQH"
     };
-    // Initialize Firebase
+
     firebase.initializeApp(firebaseConfig);
     firebase.analytics();
   </script>

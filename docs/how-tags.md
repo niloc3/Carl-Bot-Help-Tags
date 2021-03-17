@@ -1,9 +1,18 @@
 # How Tags
 
+<button style="margin: auto;" onclick="toggleTheme('light.css')">
+  Light
+</button>
+
+<button style="margin: auto;" onclick="toggleTheme('dark.css')">
+  Dark
+</button>
+
+
 >How tags are any tag starting with `how`
 
-!> Continue scrolling down to see an image of what each `how` tag does.
-
+> [!TIP]
+> Continue scrolling down to see an image of what each `how` tag does.
 
 #### List of how tags
 
