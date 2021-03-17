@@ -23,7 +23,6 @@
 | Say things with the bot | **- how say<br>- how saythings<br>- how echo** | Shows an embed explaining how to "say" things with carl-bot. This shows how to use the `echo` command, the embed builder and more.
 | ID (Retrieve and Use) | **- how id<br>- how howtoid<br>- how idusage** | Explains how you ping and mention things in a embed message. It also explains how to get IDs and turn on dev mode.
 | Levels (Premium) | **- how level<br>- how levels<br>- how lvl<br>- how lvllink** | Posts an embed with links to the level docs and what info you can find there. It also reiterates that levels are a premium feature.
-| Logging | **- how log<br>- how logging<br>- how modlog<br>- howtolog** | Shows an embed explaining how to setup logs and modlogs with carl-bot.
 | Mute | **- how mute<br>- how muted<br>- howtomute** | Shows an embed explaining how to set up channel permissions so the mute role and lockdown works.
 | Misc. | **- howtoreport<br>- howtosearch** | The howtoreport command shows how to use the report command in carl-bot help and the howtosearch posts an article explaining how to use the discord search function.
 
@@ -38,7 +37,8 @@
 | Overrides | **- how override<br>- how overrides** | Explains how channel overrides work and has some video explanations.
 | Polls | **- how poll<br>- how polls<br>- how question<br>- how survey<br>- howtopoll** | Shows a guide on how to send a poll, quickpoll, or strawpoll using carl-bot.
 | Prefix | **- prefix<br>- pre<br>- pref<br>- howtoprefix** | Shows an embed explaining how to change the prefix of carl-bot through the dashboard.
-| Ranks | **- how rank<br>- how ranks<br>- how rankhelp<br>- how addrank<br>- howtorank** | Posts an embed explaining what ranks are and what commands and syntax to use to authorize, deauthorize, view and use ranks.  
+| Ranks | **- how rank<br>- how ranks<br>- how rankhelp<br>- how addrank<br>- howtorank** | Posts an embed explaining what ranks are and what commands and syntax to use to authorize, deauthorize, view and use ranks.
+| Logging | **- how log<br>- how logging<br>- how modlog<br>- howtolog** | Shows an embed explaining how to setup logs and modlogs with carl-bot.
 | Reaction Roles | **- how rr<br>- how reactrole<br>- how reactionrole<br>- howtorr<br>- how2rr** | Posts an embed explaining how to make a reaction role and links to a video and the docs for reaction roles.
 | Hyperlinks | **- how hyperlink<br>- how namedlinks** | Explains how to put a masked link into an embed.
 | User Stats | **- how userstats<br>- how dump<br>- how inrole<br>- how newusers<br>- how oldest<br>- how youngest** | Displays an embed explaining how to get user stats like the oldest and youngest accounts in your server. This will also display how to use the `dump` command.
