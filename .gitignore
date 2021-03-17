@@ -1,2 +1,4 @@
-.nojekyll
-.firebase
+*.firebase
+firebase.json
+.firebaserc
+
