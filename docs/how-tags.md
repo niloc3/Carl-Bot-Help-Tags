@@ -7,7 +7,7 @@
 
 #### List of how tags
 
-<div align="center">
+<div id="how-tags" align="center">
 
 <div id="one" align="center">
 
@@ -51,8 +51,9 @@
 
 ?> **Tip:** click on an image to enlarge it!
 
+<!-- prettier-ignore -->
 | [![Screenshot-2021-03-13-at-11-09-46-PM.png](https://i.postimg.cc/CL26mYPD/Screenshot-2021-03-13-at-11-09-46-PM.png)](https://postimg.cc/HVQ2LGCs) | [![Screenshot-2021-03-13-at-11-12-03-PM.png](https://i.postimg.cc/3rSLxYH6/Screenshot-2021-03-13-at-11-12-03-PM.png)](https://postimg.cc/Thbjk81q) | [![image.png](https://i.postimg.cc/mgYRKjPb/image.png)](https://postimg.cc/zyG9gnwM) | [![image.png](https://i.postimg.cc/4xP4mwsW/image.png)](https://postimg.cc/87FgYRFv) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| :---------: | :----------: | :------------------: | :-----------------: |
 |                                [![image.png](https://i.postimg.cc/JnfM925z/image.png)](https://postimg.cc/PpQgDK7g)                                |                                [![image.png](https://i.postimg.cc/6qCtwfML/image.png)](https://postimg.cc/MfZhmV2v)                                | [![image.png](https://i.postimg.cc/bNjqg4v6/image.png)](https://postimg.cc/JtPw46ZJ) | [![image.png](https://i.postimg.cc/C5g9CT4k/image.png)](https://postimg.cc/34tL7qVx) | [![image.png](https://i.postimg.cc/BQJdX3bG/image.png)](https://postimg.cc/XXD2zT92) | [![image.png](https://i.postimg.cc/CLJ982nn/image.png)](https://postimg.cc/vcgPF3zG) | [![image.png](https://i.postimg.cc/XvBPT7H9/image.png)](https://postimg.cc/WDjSZjP4) |
 |                                [![image.png](https://i.postimg.cc/Y2PhDKPJ/image.png)](https://postimg.cc/6TdWTSt0)                                |                                [![image.png](https://i.postimg.cc/4Nhnr2kn/image.png)](https://postimg.cc/7fwxzVLy)                                | [![image.png](https://i.postimg.cc/ZqJRvT9y/image.png)](https://postimg.cc/rDYcv2N8) | [![image.png](https://i.postimg.cc/63ntMgGN/image.png)](https://postimg.cc/yg1MdfPf) |
 |                                [![image.png](https://i.postimg.cc/d3Fvp68Z/image.png)](https://postimg.cc/CBcWfjrw)                                |                                [![image.png](https://i.postimg.cc/G3PbG0CF/image.png)](https://postimg.cc/t7T0GM7J)                                | [![image.png](https://i.postimg.cc/GpsCpVKs/image.png)](https://postimg.cc/p9x7G0g2) | [![image.png](https://i.postimg.cc/R0nWzPng/image.png)](https://postimg.cc/v1bYrthn) |
