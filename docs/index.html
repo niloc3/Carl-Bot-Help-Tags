@@ -11,15 +11,19 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css" />
 
   <script>
-    function toggleTheme(value) {
+    function toggleTheme() {
+      // Obtains an array of all <link> 
+      // elements. 
+      // Select your element using indexing. 
+      var theme = document.getElementsByTagName('link')[0];
 
-      // Obtain the name of stylesheet  
-      // as a parameter and set it  
-      // using href attribute. 
-      var sheets = document
-        .getElementsByTagName('link');
-
-      sheets[0].href = value;
+      // Change the value of href attribute  
+      // to change the css sheet. 
+      if (theme.getAttribute('href') == 'light.css') {
+        theme.setAttribute('href', 'dark.css');
+      } else {
+        theme.setAttribute('href', 'light.css');
+      }
     }
   </script>
 
@@ -43,10 +47,10 @@
       },
 
       search: [
-        '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
+        '/',
+        '/how-tags',
+        '/video-tags',
+        '/embed-tags',
       ],
 
       // complete configuration parameters

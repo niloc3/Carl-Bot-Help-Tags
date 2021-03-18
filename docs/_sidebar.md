@@ -14,7 +14,6 @@
   - [Welcome Tags](welcome-tags.md)
   - [Logging Tags](logging-tags.md)
 
-
 - Fun Tags
 
   - [Nothing here YET](configuration.md)
@@ -35,3 +34,5 @@
   - [Nothing here YET](embed-files.md)
 
 - [Changelog](changelog.md)
+
+  <button onclick="toggleTheme()">Switch Theme</button>
