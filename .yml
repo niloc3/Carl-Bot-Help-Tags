@@ -1,2 +1,0 @@
-- name: Automatic Changelog Generator
-  uses: charmixer/auto-changelog-action@v1
