@@ -6,12 +6,10 @@
   - [Video Tags](video-tags.md)
   - [Embed Tags ✓ ](embed-tags.md)
   - [Moderation/Automod Tags](mod-tags.md)
-  - [Mute/Lockdowm Tags](mute-tags.md)
-  - [Role Tags](role-tags.md)
-  - [Suggestion Tags](suggestion-tags.md)
-  - [Twitch/Youtube Tags](twitch-tags.md)
-  - [Welcome Tags](welcome-tags.md)
-  - [Logging Tags](logging-tags.md)
+  - [Mute/Lockdowm Tags](mute-lockdown-tags.md)
+  - [Role/Sugestion Tags](role-suggestion-tags.md)
+  - [Twitch/Youtube Tags](twitch-youtube-tags.md)
+  - [Welcome/Logging Tags](welcome-logging-tags.md)
 
 - Fun Tags
 
