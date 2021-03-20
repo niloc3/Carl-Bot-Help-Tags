@@ -2,9 +2,9 @@
 
 - Support Tags
 
-  - [How Tags✔️](how-tags.md)
+  - [How Tags ✓ ](how-tags.md)
   - [Video Tags](video-tags.md)
-  - [Embed Tags✔️](embed-tags.md)
+  - [Embed Tags ✓ ](embed-tags.md)
   - [Moderation/Automod Tags](mod-tags.md)
   - [Mute/Lockdowm Tags](mute-tags.md)
   - [Role Tags](role-tags.md)
