@@ -2,7 +2,7 @@
 
 !> This is a list of all the tags that relate to posting, editing, and working with embeds using carl-bot
 
-#### List of embed tags
+#### List of role and suggestion tags
 
 <!-- prettier-ignore -->
 | Tag  | Explanation |

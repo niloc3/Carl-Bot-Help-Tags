@@ -2,10 +2,10 @@
 
 - Support Tags
 
-  - [How Tags ✓ ](how-tags.md)
-  - [Video Tags](video-tags.md)
-  - [Embed Tags ✓ ](embed-tags.md)
-  - [Moderation/Automod Tags](mod-tags.md)
+  - [How Tags ✔️ ](how-tags.md)
+  - [Video Tags ✔️ ](video-tags.md)
+  - [Embed Tags ✔️ ](embed-tags.md)
+  - [Moderation/Automod Tags ✔️ ](mod-tags.md)
   - [Mute/Lockdowm Tags](mute-lockdown-tags.md)
   - [Role/Sugestion Tags](role-suggestion-tags.md)
   - [Twitch/Youtube Tags](twitch-youtube-tags.md)
@@ -13,11 +13,11 @@
 
 - Fun Tags
 
-  - [Nothing here YET](configuration.md)
+  - [Nothing here YET](fun-tags.md)
 
 - Utility Tags
 
-  - [Nothing here YET](deploy.md)
+  - [Nothing here YET](utility-tags.md)
 
 - [Changelog](CHANGELOG.md)
 
