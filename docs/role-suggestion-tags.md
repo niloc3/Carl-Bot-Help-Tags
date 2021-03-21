@@ -12,7 +12,7 @@
 | - hyperlinks<br>- namedlinks<br>- hyperlink | Shows how to create a masked link in the description field of an embed and an example of what it looks like. |
 | - embedrules | Posts an embed showing what you can and cannot do with embeds. This often is helpful when people are wondering why their embed is not posting it is most likely the embed is breaking on of these rules |
 | - ece | Posts an embed explaining how to edit advanced embeds wih JSON. This goes step by step on how to get the JSON to using it in the embed builder on the dashboard. |
-| How and Video Tags | There are some `how` and some `video` tags that relate to embeds, to check out **how** tags click [here](/how-tags) to check out **video** tags click [here](/video-tags) |
+| How and Video Tags | There are some `how` and some `video` tags that relate to embeds. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
 
 ?> **Tip:** click on an image to enlarge it!
 
