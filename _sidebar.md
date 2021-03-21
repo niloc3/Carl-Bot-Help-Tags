@@ -2,14 +2,14 @@
 
 - Support Tags
 
-  - [How Tags ✔️ ](how-tags.md)
-  - [Video Tags ✔️ ](video-tags.md)
-  - [Embed Tags ✔️ ](embed-tags.md)
-  - [Moderation/Automod Tags ✔️ ](mod-tags.md)
-  - [Mute/Lockdowm Tags](mute-lockdown-tags.md)
-  - [Role/Sugestion Tags](role-suggestion-tags.md)
-  - [Twitch/Youtube Tags](twitch-youtube-tags.md)
-  - [Welcome/Logging Tags](welcome-logging-tags.md)
+  - [How Tags ✔️ ](docs/how-tags.md)
+  - [Video Tags ✔️ ](docs/video-tags.md)
+  - [Embed Tags ✔️ ](docs/embed-tags.md)
+  - [Moderation/Automod Tags ✔️ ](docs/mod-tags.md)
+  - [Mute/Lockdowm Tags](docs/mute-lockdown-tags.md)
+  - [Role/Sugestion Tags](docs/role-suggestion-tags.md)
+  - [Twitch/Youtube Tags](docs/twitch-youtube-tags.md)
+  - [Welcome/Logging Tags](docs/welcome-logging-tags.md)
 
 - Fun Tags
 
