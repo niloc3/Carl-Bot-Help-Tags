@@ -7,13 +7,12 @@
 <!-- prettier-ignore -->
 | Tag  | Explanation |
 | ---- | ----------- |
-| - lockem<br>- lockperms |  |
-| - ghowtomute (German) |  |
+| - lockperms | Shows an embed explaining how to set channel permissions for mute and lockdown to work. |
+| - ghowtomute (German) | Same as above but in German |
 | How and Video Tags | There are some `how` and some `video` tags that relate to embeds. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
 
 ?> **Tip:** click on an image to enlarge it!
 
 <!-- prettier-ignore -->
-| lockem | demoembed | namedlinks | ece |
-| ------------ | ----------------------------- | ------------------ | ------------------ |
-| [![image.png](https://i.postimg.cc/G3T73zXW/image.png)](https://postimg.cc/w3Hc0582) | [![image.png](https://i.postimg.cc/FK2STb0S/image.png)](https://postimg.cc/VSW56CGs) | [![image.png](https://i.postimg.cc/ZR8WjGbk/image.png)](https://postimg.cc/Q9MNdnKS) | [![image.png](https://i.postimg.cc/kX45t6bP/image.png)](https://postimg.cc/7bF4FL9K) |
+| [![image.png](https://i.postimg.cc/RhqGzxYs/image.png)](https://postimg.cc/Mf21yNqV) | [![image.png](https://i.postimg.cc/hPzMygTh/image.png)](https://postimg.cc/0bvpjTtq) |
+| ------------ | ----------------------------- |
