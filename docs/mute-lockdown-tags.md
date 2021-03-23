@@ -9,7 +9,7 @@
 | ---- | ----------- |
 | - lockperms | Shows an embed explaining how to set channel permissions for mute and lockdown to work. |
 | - ghowtomute (German) | Same as above but in German |
-| How and Video Tags | There are some `how` and some `video` tags that relate to embeds. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
+| How and Video Tags | There are some `how` and some `video` tags that relate to mute/lockdown. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
 
 ?> **Tip:** click on an image to enlarge it!
 

@@ -12,7 +12,7 @@
 | - mad<br>- modactiondmd | Posts a step by step guide explaining what to do if your moderation action DMs are not sending. |
 | - modcommands | Shows what commands need what permissions in order to be run. |
 | - warninfo<br>- warni | This posts an embed explaining how to warn a member, list warns, remove, and clear warns. This embed also explains case IDs for warns. |
-| How and Video Tags | There are some `how` and some `video` tags that relate to embeds. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
+| How and Video Tags | There are some `how` and some `video` tags that relate to moderation/automod. To check out **how** tags click [here](/how-tags). To check out **video** tags click [here](/video-tags) |
 
 ?> **Tip:** click on an image to enlarge it!
 

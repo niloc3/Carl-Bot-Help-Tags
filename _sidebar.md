@@ -7,9 +7,11 @@
   - [Embed Tags ✔️ ](docs/embed-tags.md)
   - [Moderation/Automod Tags ✔️ ](docs/mod-tags.md)
   - [Mute/Lockdowm Tags ✔️ ](docs/mute-lockdown-tags.md)
-  - [Role/Sugestion Tags](docs/role-suggestion-tags.md)
-  - [Twitch/Youtube Tags](docs/twitch-youtube-tags.md)
-  - [Welcome/Logging Tags](docs/welcome-logging-tags.md)
+  - [Role/Sugestion Tags ✔️ ](docs/role-suggestion-tags.md)
+  - [Twitch/Youtube Tags ✔️ ](docs/twitch-youtube-tags.md)
+  - [Tag/Trigger Tags ✔️ ](docs/tag-trigger-tags.md)
+  - [ID Tags](docs/id-tags.md)
+  - [Miscellaneous Tags](docs/misc-tags.md)
 
 - Fun Tags
 
