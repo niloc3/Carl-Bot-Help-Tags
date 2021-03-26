@@ -10,7 +10,7 @@
   - [Role/Sugestion Tags ✔️ ](docs/role-suggestion-tags.md)
   - [Twitch/Youtube Tags ✔️ ](docs/twitch-youtube-tags.md)
   - [Tag/Trigger Tags ✔️ ](docs/tag-trigger-tags.md)
-  - [Dashboard/Docs Tags](docs/dashboard-docs-tags.md)
+  - [Dashboard/Docs Tags ✔️ ](docs/dashboard-docs-tags.md)
   - [Miscellaneous Tags](docs/misc-tags.md)
 
 - Fun Tags
@@ -21,6 +21,6 @@
 
   - [Nothing here YET](utility-tags.md)
 
-- [Changelog](CHANGELOG.md)
+- [Changelog](docs/CHANGELOG.md)
 
   <button onclick="toggleTheme()">Switch Theme</button>
