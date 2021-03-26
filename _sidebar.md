@@ -10,7 +10,7 @@
   - [Role/Sugestion Tags ✔️ ](docs/role-suggestion-tags.md)
   - [Twitch/Youtube Tags ✔️ ](docs/twitch-youtube-tags.md)
   - [Tag/Trigger Tags ✔️ ](docs/tag-trigger-tags.md)
-  - [ID Tags](docs/id-tags.md)
+  - [Dashboard/Docs Tags](docs/dashboard-docs-tags.md)
   - [Miscellaneous Tags](docs/misc-tags.md)
 
 - Fun Tags
