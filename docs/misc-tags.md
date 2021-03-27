@@ -1,11 +1,8 @@
-# How Tags
+# Miscellaneous Tags
 
-> How tags are any tag starting with `how`
+> Tags that do not fit into any other category of tags.
 
-> [!TIP]
-> Continue scrolling down to see an image of what each `how` tag does.
-
-#### List of how tags
+#### List of miscellaneous tags
 
 <div id="how-tags" align="center">
 
