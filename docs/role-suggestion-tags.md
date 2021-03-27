@@ -15,7 +15,7 @@
 | - rrfixes | Posts an embed with some possible ideas/fixes for why reaction roles may not be working. |
 | - rrcolors | Posts a link to a tag that helps to create color reaction roles. |
 | - swap | Explains how to make a reaction role that removes one role and adds another, essentially swapping roles. |
-| - hierarchy | Explains that carl-bot respects role hierarchy and shows a gif of moving the carl-bot role above all other roles. |
+| - hierarchy<br>- perms | Explains that carl-bot respects role hierarchy and shows a gif of moving the carl-bot role above all other roles. |
 | - decisions | Shows an embed with an explanation and syntax of how to approve, deny consider or implement a suggestion made with the `suggest` command. |
 | - idbug | Posts an embed explaining what to do when you get the `'Member <IDhere> not found'` error |
 

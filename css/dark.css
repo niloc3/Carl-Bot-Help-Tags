@@ -347,6 +347,10 @@ body.sticky .sidebar-toggle {
   white-space: nowrap;
 }
 
+td:nth-child(1) {
+  white-space: nowrap;
+}
+
 #one,
 #two {
   display: inline-block;
@@ -424,6 +428,10 @@ body.close .content {
   /* Force table to not be like tables anymore */
 
   .markdown-section td:nth-child(2) {
+    white-space: normal;
+  }
+
+  td:nth-child(1) {
     white-space: normal;
   }
 
