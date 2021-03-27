@@ -1,14 +1,10 @@
 # Carl-Bot Help Tags
 
-
 > An explanation for all of the tags in the carl-bot help server
-
-
-
 
 ### What Are Tags
 
-Tags are custom commands. They are easy to use and can be very powerful. It is for instance entirely possible to create an 8ball command, a hug command and many other things using just tags. To do more than just output plaintext, you must configure the command's behavior using what is called Tagscript. Tagscript is a small language the bot interprets, made up of dynamic "blocks". To build a tag you will need to combine various blocks to tell the tag what you want it to do. Some parts of Tagscript can be used elsewhere within Carl-bot, like in Triggers, Autofeeds, and Welcome/Leave/Ban Messages.
+Tags are custom commands, they are easy to use and can be very powerful. For example it is entirely possible to create tags such as 8ball, hug, calculator and many more. To do more than just output plaintext or embed, you must configure the command's behavior using what is called Tagscript. Tagscript is a language that the bot interprets, made up of dynamic "blocks". To build a tag you will need to combine various blocks to tell the tag what you want it to do. Some parts of Tagscript can be used elsewhere within Carl-bot, like in Triggers, Autofeeds, and Welcome/Leave/Ban Messages.
 
 ### How do I use tags
 
