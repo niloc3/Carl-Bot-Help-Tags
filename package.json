@@ -1,3 +1,25 @@
 {
-  "name": "Carl-bot-help-tags"
+  "name": "carl-bot-help-tags",
+  "description": "> An explanation for all of the tags in the carl-bot help server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niloc3/Carl-Bot-Help-Tags.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niloc3/Carl-Bot-Help-Tags/issues"
+  },
+  "homepage": "https://github.com/Niloc3/Carl-Bot-Help-Tags#readme",
+  "dependencies": {
+    "firebase-tools": "^9.8.0"
+  }
 }

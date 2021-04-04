@@ -1,3 +1,4 @@
 *.firebase
 .firebaserc
 .prettierignore
+node_modules
