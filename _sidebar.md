@@ -22,5 +22,3 @@
   - [Nothing here YET](utility-tags.md)
 
 - [Changelog](docs/CHANGELOG.md)
-
-  <button onclick="toggleTheme()">Switch Theme</button>

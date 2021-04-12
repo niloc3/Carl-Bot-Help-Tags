@@ -202,7 +202,7 @@ main.hidden {
   text-decoration: underline;
 }
 .sidebar {
-  border-right: 1px solid rgba(0, 0, 0, 0.07);
+  border-right: 1px solid #4f4f4f;
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
@@ -268,7 +268,7 @@ main.hidden {
 }
 .sidebar-toggle {
   background-color: transparent;
-  background-color: rgba(63, 63, 63, 0.8);
+  background-color: #282828;
   border: 0;
   outline: none;
   padding: 10px;
@@ -334,11 +334,13 @@ body.sticky .sidebar-toggle {
 }
 .markdown-section th {
   font-weight: 700;
+  background-color: #222222;
 }
+
 .markdown-section td,
 .markdown-section th {
   border: 1px solid #ddd;
-  padding: 6px 13px;
+  padding: 12px 33px;
   color: #fff;
   min-width: 130px;
 }
@@ -378,7 +380,7 @@ td:nth-child(1) {
 .markdown-section p.tip:before {
   background-color: #f66;
   border-radius: 100%;
-  color: #2c2f33;
+  color: #332c2c;
   content: "!";
   font-family: Dosis, Source Sans Pro, Helvetica Neue, Arial, sans-serif;
   font-size: 14px;
@@ -695,6 +697,7 @@ body {
 }
 .sidebar {
   color: #c8c8c8;
+  background-color: #282828;
 }
 .sidebar li {
   margin: 6px 15px 6px 0;
